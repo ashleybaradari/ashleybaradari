@@ -7,7 +7,7 @@ After coming up with this idea, the first thing I needed to do was research othe
 
 Most of the projects that I came across were basic timelines. Some were of every Disney movie but were not very interactive. Some of the projects were very outdated and not user friendly. And some projects that I found were good outlines, but only partially captured what I want to create. One project that I came across was a timeline of Disney Princess Movies. It was laid out nicely and in a way that I would like to lay out my timeline, but it lacked a sense of interactivity and excitement. 
 
-*Picture of disney princess timeline*
+![Disney Princess movie timeline, colorful](https://ashleybaradari.github.io/ashleybaradari/images/Disneyprincesstimeline.png)
 
 My research has been fairly steady for the most part. It was not difficult to find projects similar to mine. Disney is a rather common project topic in my opinion. I did have issues with finding scholarly sources on my topic. I was not too sure how to go about it at first but I did end up coming up with a few sources. Hopefully with more research, I can come up with more scholarly sources as well. 
 
