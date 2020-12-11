@@ -11,6 +11,7 @@ I had never done an Environmental Scan before and I was quite nervous in the beg
 
 ![Ashley Baradari personal tweet about Environmental Scans](https://ashleybaradari.github.io/ashleybaradari/images/tweet.png)
 
+
 After taking some and being provided with some examples I felt more comfortable with the new aspects that I was learning. It was really helpful to be provided with examples along the way through this project process because at times I really felt like I did not have a good grasp on what I needed to do. 
 
 Overall, I felt like this project was very eye opening. I never knew how much effort and time went into applying and proposing a grant and I cannot imagine how difficult it may be to apply for one much larger or much more serious. 
